@@ -5,11 +5,7 @@ provider "registry.terraform.io/taiidani/jenkins" {
   version     = "0.9.0"
   constraints = "0.9.0"
   hashes = [
-    "h1:6g/+o5GHzKJCmEuuITW+GjWQgVe8IRX4Omt+wy1QvQc=",
-    "h1:Dy+5GdQFqhwfITBB5ftorTRKih+f3tXBtS049BX7lNo=",
-    "h1:KJx3ZhpdlciikYg2T8YNbDEywbeMq78DU+H1baZd/zo=",
     "h1:rBxOVRN1zVL06ueWxJ0tUcVABxEuriyl95ZSKmGoQBo=",
-    "h1:szkArO9xppByvH4gxMbZcYKwftryjKJP9VqvsoM6eag=",
     "zh:06743fa9a28664e1c6dfd27ff959236a4a54c180dbd7cf01f69d6005f1259de2",
     "zh:09c20ce2a5b36a62bf1e1355f4f0a1fd666d291680ebfbd79293779bfcf60f9b",
     "zh:11b92d5d0d4e9ff7f18ec2145bbe1771c5dca08d6c2169cdc10bf9f0afb78410",
